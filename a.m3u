@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1,--- HK Pro 
+
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Latin | Peliculas HD 1080P-
+http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
+
+#EXTINF: -1 tvg-logo = "https://cdn.camwhores.tv/contents/videos_screenshots/6696000/6696707/preview.mp4.jpg", Latino | HBO Plus West HD 1080P-
+http://f7.mytvxweb.net:8082/18086/mpegts?token=MxPReBvRE1
+
+#EXTINF: -1 tvg-logo = "http://chileiptv.cl/img/logos/logo_15009529931.png" group-title = "achoAPPS", La Red
+https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/originals/97/d6/3f/97d63fe7f1314083808a4c1a8fec584e.jpg" group-title = "achoAPPS", EmolTv
+https://streaming.ecn.cl/hls/vivohd_hi/index.m3u8
