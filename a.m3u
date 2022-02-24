@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Latin | Peliculas HD 1080P-
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Peliculas -
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
 #EXTINF: -1 tvg-logo = "http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", TEN Canal 10 SD-
@@ -10,4 +10,4 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  PRUEBA
-https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
+http://bit.ly/peliculas-m3u
