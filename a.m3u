@@ -3,13 +3,10 @@
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Peliculas -
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 
-#EXTINF: -1 tvg-logo = "http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", TEN Canal 10 SD-
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg", Ten Canal 10 HD Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png", Discovery Turbo No audio
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949d391841d662fe41_turbo.jpeg", Discovery Turbo No audio
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo-avc1_2499968=10002.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO 
