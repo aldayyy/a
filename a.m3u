@@ -12,5 +12,24 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/Disco
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD-avc1_2740000=10003.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_hbo-2-hd_m.png", HBO 2
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2-avc1_2100000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO Plus
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus-avc1_2499968=10001.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO Family
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family-avc1_2100000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO Pop
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP-avc1_2100000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO Mundi
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi-avc1_2420000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO Extreme
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme-avc1_2420000=10003.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbo.jpg", HBO Extreme m3u
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
