@@ -2,6 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://www.androidfreeware.net/img2/hbg", PRUEBA
 https://dcs-vod.mp.lura.live/vod/p/master.m3u8?encp=C5d7O4jEgcaGrxYUdoWQwA:emdKW0NDBoIyn3_v1xSddH7vqIsFEdVEJonXbCFrOh6wXlbp100Q2pxngzP6DuNCyXiB5S6frrpvag4-j0beycFR12zblywqSPQebZR9zrN3Kv1CVSdGtB-Wol3i6kPZyLWyuGkrD6OH8hgUzUwX0uphCf0qP-tIytpDlr5wS57xND_x8c_lJz_ka2bmvvk7Kp_dKZfQnrcHPIlccvzcf2Lpt2fzD4jXx9_j9L3GaYEqMDlKwmyPZxW65N5UDf0gnINZC80jRZxDjJX2tEuSxVGKGl_AXZDWR_bk0wFrIvVyonC4WRO76SGFY-MwY8y2XoM8p1G2JfmcdsT74Jks6-bxCvOHtpkDzuG-E_bbFtM&anvtrid=787d17878e214af0fab3ab953b29c438&anvauth=tb=0~te=1646707681~sgn=becd5d2adcef8cec204a6a08976fbaa8c223a660ed892bcdc60eeb1bb5513a73&t=1646707591
+
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Prueba 2
+https://dcs-vod.mp.lura.live/vod/p/256700/prog.m3u8?i=i177619078-n68598f60-1a79-4c65-ad70-bbd4b78448c9&anvtrid=787d17878e214af0fab3ab953b29c438
+
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/564x/7c/39/95/7c39959da5e1fb06ba3770bb7fbd42af.jpg", Space
 https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1646268420~exp=1646269020~acl=/*~hmac=cb9de6d3864359d8a104cddd976f6f25f9f2344d25bc4e37ef366f1881c5d92f
 
